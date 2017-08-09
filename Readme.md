@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Alexey Glazkov](https://up.htmlacademy.ru/htmlcss/18/user/246435).
-
+* Наставник: [Арутюн Карапетян](https://htmlacademy.ru/profile/id490003)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
